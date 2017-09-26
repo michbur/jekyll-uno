@@ -1,0 +1,8 @@
+---
+title: "Mamy bloga"
+date: 2017-01-08 17:00:00
+categories: [whyR]
+tags: [whyR]
+---
+
+WhyR! We Wrocławiu! Lepiej! Więcej!
