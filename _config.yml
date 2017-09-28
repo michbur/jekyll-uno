@@ -1,8 +1,8 @@
 # Site settings
 title: "2-4.07.2018, Wrocław"
 description: 'Annual meeting of polish R community'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+url: 'http://whyR2018.pl/whyR'
+baseurl: '/whyR'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
